@@ -33,4 +33,5 @@
 
 ## 📫 Contacto
 - 🌐 [GitHub](https://github.com/SilvanaRomero)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sbromero/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sbromero/)
+- 📧 [Email](mailto:sbromero@fi.uba.ar)  
